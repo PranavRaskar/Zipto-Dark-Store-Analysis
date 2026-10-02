@@ -564,11 +564,11 @@ dark-store-down-zipto/
 
 ### 🌐 Live Project Website
 
-[Open Project Dashboard](ADD_DEPLOYED_LINK_HERE)
+[Open Project Dashboard]([ADD_DEPLOYED_LINK_HERE](https://pranavraskar.github.io/Zipto-Dark-Store-Analysis))
 
 ### 💻 GitHub Repository
 
-[View Source Code](ADD_GITHUB_REPOSITORY_LINK_HERE)
+[View Source Code]([ADD_GITHUB_REPOSITORY_LINK_HERE](https://github.com/PranavRaskar/Zipto-Dark-Store-Analysis))
 
 ### 🔗 LinkedIn Post
 
