@@ -1,0 +1,11 @@
+store_id,store_name,pincode,opened_date,sqft,monthly_rent,staff_count,cold_storage_capacity,city
+S01,Sector 18 Hub,201301,15-06-2025,2200,178000,14,900,Noida
+S02,Sector 62 Express,201309,01-07-2025,1900,162000,12,800,Noida
+S03,Sector 137 Riverside,201305,10-08-2025,2100,196000,13,850,Noida
+S04,Greater Noida Alpha,201310,05-09-2025,2000,152000,12,820,Nodia
+S05,Sector 76 Central,201304,20-09-2025,1800,181000,11,700,Noida
+S06,Noida Extension North,201306,11-10-2025,2300,158000,15,950,Noida
+S07,Sector 44 Metro,201303,28-06-2025,2400,228000,16,380,Noida
+S08,Sector 104 Gardens,201304,02-11-2025,1700,146000,,700,Noida
+S09,Sector 150 Sports City,201310,15-06-2026,2150,172000,13,830,Nodia
+S10,Sector 51 Junction,201301,08-02-2026,1850,165000,12,760,Noida
