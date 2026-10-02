@@ -1,0 +1,13 @@
+store_id,store_name,pincode,opened_date,sqft,monthly_rent,staff_count,cold_storage_capacity,city
+S01,  Sector 18 Hub,201301,15-06-2025,2200,"Rs. 178,000",14,900,Noida
+S02,Sector 62 Express,201309,01-07-2025,1900,"INR 162,000",12,800,NOIDA
+S03,Sector 137 Riverside ,201305,10-Aug-25,2100,"1,96,000",13,850,noida 
+S04,Greater Noida Alpha,201310,05-09-2025,2000,"Rs. 152,000",12,820,Nodia
+S05,  Sector 76 Central,201304,20-09-2025,1800,"INR 181,000",11,700,Noida 
+S06,Noida Extension North,201306,11-Oct-25,2300,"1,58,000",15,950,Noida
+S07,Sector 44 Metro ,201303,28-06-2025,2400,"Rs. 228,000",16,380,NOIDA
+S08,Sector 104 Gardens,201304,02-11-2025,1700,"INR 146,000",,700,noida 
+S09,  Sector 150 Sports City,201310,15-Jun-26,2150,"1,72,000",13,830,Nodia
+S10,Sector 51 Junction,201301,08-02-2026,1850,"Rs. 165,000",12,760,Noida 
+S04,Greater Noida Alpha,201310,05-09-2025,2000,"Rs. 152,000",12,820,Nodia
+S08,Sector 104 Gardens,201304,02-11-2025,1700,"INR 146,000",,700,noida 
