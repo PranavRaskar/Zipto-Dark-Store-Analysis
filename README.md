@@ -350,7 +350,7 @@ Potential promo-floor leakage was quantified
 
 # 🌐 Project Dashboard
 
-[**Open Live Dashboard**](https://pranavraskar.github.io/Zipto-Dark-Store-Analysis)
+[**Open Live Dashboard**](https://zipto-dark-store-analysis-kmr3joufedsiofqjfwiaea.streamlit.app/)
 
 ---
 
