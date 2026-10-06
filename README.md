@@ -362,7 +362,7 @@ Potential promo-floor leakage was quantified
 
 # 🔗 LinkedIn
 
-[**View LinkedIn Post**](ADD_LINKEDIN_POST_LINK_HERE)
+[**View LinkedIn Post**](https://lnkd.in/p/dbKiyRVc)
 
 ---
 
